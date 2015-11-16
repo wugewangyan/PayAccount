@@ -1,4 +1,4 @@
-package jar;
+package com.napoleon.pay.account.account_api;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
@@ -30,9 +30,6 @@ public class AppTest
 
     /**
      * Rigourous Test :-)
-     
-     
-     
      */
     public void testApp()
     {
